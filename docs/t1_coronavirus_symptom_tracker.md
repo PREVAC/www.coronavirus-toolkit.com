@@ -10,7 +10,7 @@ Knowing if anyone has symptoms of Coronavirus helps you decide what to do next. 
 Note: A new, continuous cough means coughing for longer than an hour, or three or more coughing episodes in 24 hours. If you usually have a cough, it may be worse than usual.
 SOURCE: [GOV.UK](https://www.gov.uk/government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19); [NHS inform](https://www.nhsinform.scot/self-help-guides/self-help-guide-coronavirus-covid-19)
 
-![The Symptoms of Coronavirus Disease | COVID-19](https://coronavirus-toolkit.com/t1_symptoms.png)
+![The Symptoms of Coronavirus Disease | COVID-19](https://coronavirus-toolkit.com/symptoms.png)
 
 ## What You Need
 

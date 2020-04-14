@@ -83,7 +83,7 @@ There is no harm in wearing a mask covering your face, and it is believed to pre
   <iframe width="1189" height="669" src="https://www.youtube.com/embed/W6d3twpHwis" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-**Source:** [CDC](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html), [van der Sande et al., 2008](https://trello.com/c/nh9tuiRU/28-t3i-mask-usage)
+**Source:** [CDC](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html), [van der Sande](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0002618&type=printable)
 
 ### Putting On Masks
 

@@ -34,7 +34,6 @@ If no one needs immediate emergency help, you should review the flowchart and us
 ## Flowchart
 ![F2 Living someone symptoms flowchart-v2](/F2-Living_someone_symptoms_flowchart-v2.jpg)
 
-!!!include(docs/tools/t3i_face_masks.md)!!!
 !!!include(docs/tools/t6_household_quarantine_area.md)!!!
 !!!include(docs/tools/T10-Coronavirus-symptom-severity-checker.md)!!!
 !!!include(docs/tools/T11_Speaking_with_a_healthcare_professional_about_coronavirus_symptoms.md)!!!

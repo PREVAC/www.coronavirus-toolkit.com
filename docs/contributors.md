@@ -4,7 +4,7 @@ Last updated 6 April 2020
 
 | Volunteer | Bio (location) |
 | --- | --- |
-| Abhijna Yergolka |   |
+| Abhijna Yergolka | Doctor of Pharmacy Student from India with a research interest in evidence based medicine. Experienced with systematic reviews - data extraction, risk of bias assessments, qualitative synthesis, screening. (India)  |
 | Alex |   |
 | Ali Shahali |   |
 | Amin Tabari |   |

@@ -1,4 +1,8 @@
-## Essential Supplies – Eye Protection
+## T3iii: Essential Supplies – Eye Protection
+
+<a href="/T3iii-Eye_Protection_v3.pdf" target="_blank">
+    <img class="downloadtools" src="/download-tools.png" />
+</a>
 
 ### Why is this Tool Helpful to You?
 Eye protection reduces the spread of virus due to coughing, breathing and talking. Physical barriers like face-shields or goggles can also protect against COVID-19 infection.

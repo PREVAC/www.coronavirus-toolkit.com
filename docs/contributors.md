@@ -28,6 +28,7 @@ Last updated 6 April 2020
 | Tess |   |
 | Tim Howard |   |
 | Virginia Minogue |   |
+| Zain D. | A 5th year medical student and a trainer at the CME Office at Aleppo University. Interested in scientific research and learning how science can make the world a better place. (Aleppo, Syria) |
 | Zakaria Alsaman |   |
 
 ## Supporting Organizations
@@ -35,4 +36,3 @@ Last updated 6 April 2020
 | Organisation | Help Offered |
 | --- | --- |
 | Slack | Sponsor of Standard Slack license |
-|   |   |

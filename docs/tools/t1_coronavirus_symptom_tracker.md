@@ -8,29 +8,29 @@
 
 Knowing if anyone has symptoms of coronavirus helps you decide what to do next. The most common symptoms of Coronavirus are recent onset of:
 
-- new continuous cough and/or
-- high temperature (above 100.0 °F / 37.8 °C)
+- **new continuous cough and/or**
+- **high temperature (above 100.0 °F / 37.8 °C)**
 
 Note: A new, continuous cough means coughing for longer than an hour, or three or more coughing episodes in 24 hours. If you usually have a cough, it may be worse than usual.
 
 **SOURCE:** [GOV.UK](https://www.gov.uk/government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19); [NHS inform](https://www.nhsinform.scot/self-help-guides/self-help-guide-coronavirus-covid-19)
 
-:::**STOP: If anyone has any of the symptoms below, call your emergency
-services immediately.**
+::: danger 
+If anyone has any of the symptoms below, call your emergency services immediately.
 
-- severe shortness of breath at rest
-- pain or pressure in the chest
-- cold, clammy or pale and mottled skin
-- have recently become confused
-- are difficult to rouse
-- have blue lips or face
-- have little or no urine output when they pee
-- coughing up blood
-  :::  
+* __severe shortness of breath at rest__
+* __pain or pressure in the chest__
+* __cold, clammy or pale and mottled skin__
+* __have recently become confused__
+* __are difficult to rouse__
+* __have blue lips or face__
+* __have little or no urine output when they pee__
+* __coughing up blood__
+:::
 
 [T10: Coronavirus symptom severity checker](/f2-living-in-a-household-with-someone-with-coronavirus-symptoms.html#T10-Coronavirus-symptom-severity-checker) is also available to help you estimate the severity of possible coronavirus symptoms.
 
-[COVID-19 Symptoms](https://www.cebm.net/wp-content/uploads/2020/03/MAIN-fig_image_LATEST_resized.png)
+![COVID-19 Symptoms](https://www.cebm.net/wp-content/uploads/2020/03/MAIN-fig_image_LATEST_resized.png)
 
 ### What You Need
 

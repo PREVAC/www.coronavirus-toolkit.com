@@ -1,14 +1,14 @@
 ## T10: Check Severity of Coronavirus Symptoms
 
-<a href="/T10-Symptom_Severity_Checker_V3.pdf" target="_blank">
+<a href="/T10_Symptom_Severity_Checker_V3.pdf" target="_blank">
     <img class="downloadtools" src="/download-tools.png" />
 </a>
 
 ### Why is the Tool Helpful to You
 
-Understanding the severity of the symptoms of coronavirus, and preparing for a call with our local healthcare system, will help the caller speed up calls and assist our healthcare professionals prioritize care.
+Understanding the severity of the symptoms of coronavirus and preparing for a call with our local healthcare system will help the caller speed up calls and assist our healthcare professionals prioritize care.
 
-It is reported that less than 1 in 20 people aged less than 50 years with COVID-19 needed hospital care in a recent study and, for most of us, the safest and the most comfortable place to recover from the virus is in our own household. The risks of developing severe complications increase with age and the presence of other illnesses.
+It is reported that fewer than 1 in 20 people aged less than 50 years with COVID-19 needed hospital care in a recent study and, for most of us, the safest and the most comfortable place to recover from the virus is in our own household. The risks of developing severe complications increase with age and the presence of other illnesses.
 
 __Source:__ [The Lancet](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30243-7/fulltext)
 

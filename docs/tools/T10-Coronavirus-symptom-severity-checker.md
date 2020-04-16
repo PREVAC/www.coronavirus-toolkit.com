@@ -1,6 +1,6 @@
 ## T10: Check Severity of Coronavirus Symptoms
 
-<a href="/T10-Symptom_Severity_Checker_V2.pdf" target="_blank">
+<a href="/T10-Symptom_Severity_Checker_V3.pdf" target="_blank">
     <img class="downloadtools" src="/download-tools.png" />
 </a>
 

@@ -6,9 +6,9 @@
 
 ### Why is this Important?
 
-If you or a loved one have symptoms of coronavirus, with or without a confirmed test for the virus, you will need to create a separate space in the home for the yourself or the person(s) you are caring for to **prevent the spread of infection among your household**.
+If you or a loved one has symptoms of coronavirus, with or without a confirmed test for the virus, you will need to create a separate space in the home for yourself or the person(s) you are caring for to **prevent the spread of infection among your household**.
 
-**If you live alone**, make sure that your friends and neighbors on your emergency contact list are aware of your symptoms so they can check in on you. Of course they will still need to follow isolation guidelines to do that.
+**If you live alone**, make sure that your friends and neighbors on your emergency contact list are aware of your symptoms, so they can check in on you. Of course they will still need to follow isolation guidelines to do that.
 
 ### Disclaimer
 
@@ -52,7 +52,7 @@ Expect the infected individual to spend the majority of their time here. Providi
 
 **No separate room(s)?**
 
-If the space is not available to prepare a separate room, separate the infected individual’s space as much as possible from any other communal space in a dwelling, and continue to practice frequent handwashing, disinfection, and isolation with the use of gloves and masks. Continue to follow CDC, WHO or your local health department’s recommended practices to prevent the spread of infection.
+If space is not available to prepare a separate room, separate the infected individual’s space as much as possible from any other communal space in a dwelling, and continue to practice frequent handwashing, disinfection, and isolation with the use of gloves and masks. Continue to follow CDC, WHO or your local health department’s recommended practices to prevent the spread of infection.
 
 [T4-Household Lockdown](/f1-preparing-for-coronavirus-lock-down.html#t4-household_lockdown)
 
@@ -75,10 +75,10 @@ Source: [CDC](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cle
 
 ### Disinfect
 
-Disinfect a space every time the infected individual uses it. This is especially important if the space is in a shared area. Use a CDC recommended disinfectant, or whatever your government recommends:
+Disinfect any space every time the infected individual uses it. This is especially important if the space is in a shared area. Use a CDC recommended disinfectant, or whatever your government recommends:
 
-* **Bleach solution:** 5 tablespoons (approximately 100 ml, 1/3 cup) of bleach per gallon (approximately 4.5 liters) of water, or 4 teaspoons bleach per quart of water. **Never mix with ammonia or any other cleanser and provide proper ventilation. Do not use past expiration date.**
-* **Alcohol solution:** must be 70%.
+* **Bleach solution:** 5 tablespoons (approximately 100 ml, 1/3 cup) of bleach per gallon (approximately 4.5 liters) of water, or 4 teaspoons bleach per quart of water. **Never mix with ammonia or any other cleanser and provide proper ventilation. Do not use anything past its expiration date.**
+* **Alcohol solution:** must be at least 70%.
 * Use the disinfectant to clean all high-touch surfaces in the shared area: counters, door handles/knobs, switches, toilet flush handle, toilet lid, shower/bathtub handles, shower curtain, towel rack, medicine cabinet, sinks and faucets/taps, appliances, remote controls, electronic devices, etc..
 * Apply the disinfectant and allow it to air dry.
 * **Do not share towels or wipes used for disinfecting patient areas with other areas of the house. This may spread contamination.**

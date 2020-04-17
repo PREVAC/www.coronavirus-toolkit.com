@@ -5,7 +5,7 @@ module.exports = {
     nav: [
       { text: "Home", link: "/" },
       { text: "About", link: "/about" },
-      { text: "Contributors", link: "/contributors" },
+      { text: "Volunteers", link: "/volunteers" },
       { text: "Contact", link: "/contact" },
     ],
     sidebar: getSidebar({

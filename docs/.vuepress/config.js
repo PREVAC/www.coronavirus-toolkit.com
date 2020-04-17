@@ -14,7 +14,7 @@ module.exports = {
         "contact.md",
         ".DS_Store",
         "about.md",
-        "contributors.md",
+        "volunteers.md",
       ],
     }),
     repo: "zeue/coronavirus-toolkit",

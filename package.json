@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/zeue/coronavirus-toolkit#README.md",
   "dependencies": {
+    "@vuepress/plugin-google-analytics": "^1.4.1",
     "markdown-it-include": "^1.1.0",
     "patch-package": "6.2.0",
     "vuepress": "^1.4.0"

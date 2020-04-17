@@ -5,9 +5,18 @@ module.exports = {
     nav: [
       { text: "Home", link: "/" },
       { text: "About", link: "/about" },
-      { text: "Contact", link: "/contact" }
+      { text: "Volunteers", link: "/volunteers" },
+      { text: "Contact", link: "/contact" },
     ],
-    sidebar: getSidebar({ excludes: ["README.md", "contact.md", ".DS_Store", "about.md"] }),
+    sidebar: getSidebar({
+      excludes: [
+        "README.md",
+        "contact.md",
+        ".DS_Store",
+        "about.md",
+        "volunteers.md",
+      ],
+    }),
     repo: "zeue/coronavirus-toolkit",
     repoLabel: "Contribute!",
     editLinks: true,
@@ -16,32 +25,40 @@ module.exports = {
     lastUpdated: "Last Updated",
     head: [["link", { rel: "icon", href: "/icon.png" }]],
     sidebarDepth: 1,
-    logo: '/icon.png'
+    logo: "/icon.png",
   },
   title: "Coronavirus Toolkit",
   markdown: {
-    extendMarkdown: md => {
+    extendMarkdown: (md) => {
       md.use(require("markdown-it-include"));
-    }
-  }
+    },
+  },
+  plugins: [
+    [
+      "@vuepress/google-analytics",
+      {
+        ga: "UA-162939938-1",
+      },
+    ],
+  ],
 };
 
 function getSidebar(settings) {
   let _fileScan = fs
     .readdirSync(__dirname + "/../", { withFileTypes: true })
-    .filter(_x => _x.isFile())
-    .map(_x => _x.name);
+    .filter((_x) => _x.isFile())
+    .map((_x) => _x.name);
 
   let _children = _fileScan
     // TODO: ignore all files/directories that start with a .
-    .filter(_x => {
+    .filter((_x) => {
       if (settings.excludes.includes(_x)) {
         return false;
       } else {
         return true;
       }
     })
-    .map(_x => {
+    .map((_x) => {
       let returned = "/" + _x.replace(".md", "");
 
       if (returned.includes("README")) {
@@ -55,8 +72,8 @@ function getSidebar(settings) {
     {
       title: "",
       collapsable: false,
-      children: _children
-    }
+      children: _children,
+    },
   ];
 
   console.log(sidebar);

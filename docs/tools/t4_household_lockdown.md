@@ -19,7 +19,7 @@ The use of information on this site is at reader's own risk and no party involve
 ### What You Need
 * Materials to make a plan (eg paper, pen, computer printer)
 * [T3-Essential Supplies](/f1-preparing-for-coronavirus-lock-down.html#t3-essential-supplies) that you will need for your preparations for the extended period at home
-* [T1-Coronavirus Symptom Tracker](/f1-preparing-for-coronavirus-lock-down.html#t1_coronavirus_symptom_tracker)
+* [T1-Coronavirus Symptom Tracker](/f1-preparing-for-coronavirus-lock-down.html#t1-coronavirus-symptom-tracker)
 
 ### Make a Plan for Your Household
 Plan for how you can adapt your daily routine, and that of others in your household, to be able to follow this advice. The plan assumes you have a phone or access to a phone. Some of the ways in which you could prepare include:

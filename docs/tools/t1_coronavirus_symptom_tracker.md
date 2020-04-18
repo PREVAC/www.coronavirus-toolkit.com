@@ -110,4 +110,4 @@ T2: Guidelines for People with Coronavirus Symptoms
 
 T6: Household Quarantine Area
 
-T10: Check Severity of Coronavirus Symptoms
+[T10: Coronavirus symptom severity checker](f2-living-in-a-household-with-someone-with-coronavirus-symptoms.html#t10-check-severity-of-coronavirus-symptoms)T10: Check Severity of Coronavirus Symptoms

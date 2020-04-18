@@ -29,13 +29,13 @@ Plan for how you can adapt your daily routine, and that of others in your househ
 * create an emergency contact list with phone numbers of neighbors, schools, employer, chemist, healthcare provider, pharmacist, the local public health department, and other community resources ([40 Phone & Email Contact List Templates](http://templatelab.com/contact-list/))
 * create a list of local and national essential service providers and aid organizations that can deliver essential supplies to your household ([40 Phone & Email Contact List Templates](http://templatelab.com/contact-list/))
 * what practical measures that you going to take to maintain social distancing?
-* plan for a ‘separation area’ for any household members who develop or have symptoms ([T6-Making a ‘Separation Area’](/f1-preparing-for-coronavirus-lock-down.html#t6_making_a_separation_area))
-* make sure you know what action is recommended in your area if coronavirus symptoms worsen ([T2-Guidelines for People with Coronavirus Symptoms](/f1-preparing-for-coronavirus-lock-down.html#t2_guidelines_for_people_with_coronavirus_symptoms))
+* plan for a ‘separation area’ for any household members who develop or have symptoms ([T6-Household Quarantine Area](f1-preparing-for-coronavirus-lock-down.html#t6-household-quarantine-area))
+* make sure you know what action is recommended in your area if coronavirus symptoms worsen ([T2-Guidelines for People with Coronavirus Symptoms](f1-preparing-for-coronavirus-lock-down.html#t2-guidelines-for-people-with-coronavirus-symptoms))
 * make a plan for how you will take receipt of packages without coming into close proximity with the delivery person and plan for how you will handle any food delivered to the house ([Food Safety Tips](https://www.youtube.com/watch?time_continue=3&v=sjDuwc9KBps&feature=emb_logo))
 * how can you make it easy for your household to routinely wash their hands in designated area(s)?
 * how are you planning to dispose of used tissues that have been used by household members coughing or blowing their nose?
-* Print a copy of the [T1-Coronavirus Symptom Tracker](/f1-preparing-for-coronavirus-lock-down.html#t1_coronavirus_symptom_tracker)
-* Print a copy of the [T5-Notice to Visitors](/f1-preparing-for-coronavirus-lock-down.html#t5_notice_to_visitors)
+* Print a copy of the [T1-Coronavirus Symptom Tracker](f1-preparing-for-coronavirus-lock-down.html#t1-coronavirus-symptom-tracker)
+* Print a copy of the [T5-Home Status Notice](f1-preparing-for-coronavirus-lock-down.html#t5-home-status-notice)
 
 Sources: Adapted from [CDC](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/get-your-household-ready-for-COVID-19.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fprepare%2Fget-your-household-ready-for-COVID-19.html), [GOV.UK](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance/stay-at-home-guidance-for-households-with-possible-coronavirus-covid-19-infection)
 
@@ -62,8 +62,8 @@ Guidance varies from country-to-country, but this list seems to be almost univer
 ![Symptoms of Coronavirus Disease | COVID-19](/symptoms.png)
   * Measure the **temperature** of those in your household daily. It is very important that you sanitize the thermometer, with either rubbing alcohol or lukewarm soapy water, before and after it is used for every person in the house, particularly if it is an oral thermometer. (How to Sanitize a Thermometer)
   * Record any significant changes in **cough** each day for everyone in the household
-  * [T1-Coronavirus Symptom Tracker](/f1-preparing-for-coronavirus-lock-down.html#t1_coronavirus_symptom_tracker) is designed to make the recording of symptoms easy
-  * [T2-Guidelines for People with Coronavirus Symptoms](/f1-preparing-for-coronavirus-lock-down.html#t2_guidelines_for_people_with_coronavirus_symptoms)
+  * [T1-Coronavirus Symptom Tracker](f1-preparing-for-coronavirus-lock-down.html#t1-coronavirus-symptom-tracker) is designed to make the recording of symptoms easy
+  * [T2-Guidelines for People with Coronavirus Symptoms](/f1-preparing-for-coronavirus-lock-down.html#t2-guidelines-for-people-with-coronavirus-symptoms)
 
 Source: Adapted from [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public), [CDC](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/checklist-household-ready.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fprepare%2Fchecklist-household-ready.html)
 

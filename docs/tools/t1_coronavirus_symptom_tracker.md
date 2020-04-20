@@ -28,7 +28,7 @@ If anyone has any of the symptoms below, call your emergency services immediatel
 * __coughing up blood__
 :::
 
-[T10: Coronavirus symptom severity checker](/f2-living-in-a-household-with-someone-with-coronavirus-symptoms.html#T10-Coronavirus-symptom-severity-checker) is also available to help you estimate the severity of possible coronavirus symptoms.
+[T10: Coronavirus symptom severity checker](f2-living-in-a-household-with-someone-with-coronavirus-symptoms.html#t10-check-severity-of-coronavirus-symptoms) is also available to help you estimate the severity of possible coronavirus symptoms.
 
 ![COVID-19 Symptoms](https://www.cebm.net/wp-content/uploads/2020/03/MAIN-fig_image_LATEST_resized.png)
 
@@ -106,8 +106,8 @@ The advice varies from country to country, so make sure you know what to do befo
 
 ### See also these additional tools.
 
-T2: Guidelines for People with Coronavirus Symptoms
+[T2: Guidelines for People with Coronavirus Symptoms](f1-preparing-for-coronavirus-lock-down.html#t2-guidelines-for-people-with-coronavirus-symptoms)
 
-T6: Household Quarantine Area
+[T6: Household Quarantine Area](f1-preparing-for-coronavirus-lock-down.html#t6-household-quarantine-area)
 
-T10: Check Severity of Coronavirus Symptoms
+[T10: Check Severity of Coronavirus Symptoms](f2-living-in-a-household-with-someone-with-coronavirus-symptoms.html#t10-check-severity-of-coronavirus-symptoms)

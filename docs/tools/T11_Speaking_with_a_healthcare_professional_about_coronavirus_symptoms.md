@@ -1,6 +1,6 @@
 ## T11: Speaking with a Healthcare Professional about Coronavirus Symptoms
 
-<a href="/T11_Speaking_with_healthcare_professional_V4.pdf" target="_blank">
+<a href="/T11_Speaking_with_healthcare_professional_V5.pdf" target="_blank">
     <img class="downloadtools" src="/download-tools.png" />
 </a>
 
@@ -14,7 +14,7 @@
 - **have blue lips or face**
 - **have little or no urine output when they pee**
 - **coughing up blood**
-:::
+  :::
 
 Source: [BMJ](https://www.bmj.com/content/368/bmj.m1182)
 
@@ -64,14 +64,26 @@ Use a **Medical History** form and a **List of Current Medications** form above 
 
 You will be asked about the symptoms you are experiencing.
 
-Symptoms of COVID 19 may include (but are not limited to): Dry cough, difficulty breathing, fever, diarrhea, loss of sense of smell or taste, sore throat, body aches, muscle fatigue, headache. You may not possess all of these symptoms or your symptoms may vary. Refer to [T1: Coronavirus Symptom Tracker](/f1-preparing-for-coronavirus-lock-down.html#t1_coronavirus_symptom_tracker),  [T2: Guidelines for People with Coronavirus Symptoms](/f1-preparing-for-coronavirus-lock-down.html#t2_guidelines_for_people_with_coronavirus_symptoms),  [T10: Check Severity of Coronavirus Symptoms](/f2-living-in-a-household-with-someone-with-coronavirus-symptoms.html#T10-Coronavirus-symptom-severity-checker) and self-checkers like this from [Johns Hopkins](https://www.hopkinsmedicine.org/coronavirus/covid-19-self-checker.html).
+Symptoms of COVID 19 may include (but are not limited to): Dry cough, difficulty breathing, fever, diarrhea, loss of sense of smell or taste, sore throat, body aches, muscle fatigue, headache. You may not possess all of these symptoms or your symptoms may vary. Refer to [T1: Coronavirus Symptom Tracker](/f1-preparing-for-coronavirus-lock-down.html#t1_coronavirus_symptom_tracker),  [T2: Guidelines for People with Coronavirus Symptoms](/f1-preparing-for-coronavirus-lock-down.html#t2_guidelines_for_people_with_coronavirus_symptoms),  [T10: Check Severity of Coronavirus Symptoms](/f2-living-in-a-household-with-someone-with-coronavirus-symptoms.html#T10-Coronavirus-symptom-severity-checker) and self-checkers like those listed below.
 
-<a href="https://www.hopkinsmedicine.org/coronavirus/covid-19-self-checker.html" target="_blank">
-    <img class="downloadtools" src="/johns_hopkins_Coronavirus_Self_Checker.jpg" />
-</a>
+**Online Symptom Checkers**
+
+**Several countries have also provided online symptom checkers for household use.**
+
+These trackers provide helpful information wherever you live, however, the recommendations they provide are focused on the country where they are published.
+
+| Country        | Symptom Checker                                                                                                         |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Australia      | [Health Direct COVID-19 Symptom Checker](https://www.healthdirect.gov.au/symptom-checker/tool/basic-details)            |
+| Canada         | [COVID-19 Symptom Self-Assessment Tool](https://ca.thrive.health/covid19/en)                                            |
+| Lebanon        | [COVID-19 Symptom Checker](https://trakmd.com/coronavirus)                                                              |
+| United Kingdom | [NHS Symptom Checker](https://111.nhs.uk/covid-19)                                                                      |
+| United Kingdom | [PatientAccess Online Symptom Checker](https://www.patientaccess.com/coronavirus)                                       |
+| United Kingdom | [COVID-19 Symptom Checker (NHS Wales)](https://www.nhsdirect.wales.nhs.uk/SelfAssessments/symptomcheckers/COVID19.aspx) |
+| United States  | [CDC Symptom Self-Checker](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/index.html)                       |
 
 - For individuals with pre-existing medical conditions, you may be asked if there has been a change in your condition eg, if you are asthmatic they may ask how often you use your inhaler and if there has been any change in the number of times you have had to use your inhaler.
-- If you have your own thermometer and or blood pressure monitor, you may be asked to check your temperature and blood pressure.
+- If you have your own thermometer and/or blood pressure monitor, you may be asked to check your temperature and/or blood pressure respectively.
 
 Source: [BMJ](https://www.bmj.com/content/368/bmj.m1182), [Johns Hopkins](https://www.hopkinsmedicine.org/coronavirus/covid-19-self-checker.html), [CDC](https://www.cdc.gov/coronavirus/2019-ncov/hcp/phone-guide/index.html)
 
@@ -89,7 +101,7 @@ Although COVID-19 is now spreading in most countries, you may still be asked abo
 
 **Risk of Infection from Others**
 
-You may be asked about risks of contracting coronavirus from others, such as whether or not you have had contact with confirmed COVID-19 cases. As some jobs increase the risk of exposure, you may also be asked questions about the risks associated with your employment or voluntary you work.
+You may be asked about the risks of contracting coronavirus from others, such as whether or not you have had contact with confirmed COVID-19 cases. As some jobs increase the risk of exposure, you may also be asked questions about the risks associated with your employment or your voluntary work.
 
 - Did you have close contact with anyone who has tested positive for COVID-19?
 - What was the length of time of your interaction with that person?

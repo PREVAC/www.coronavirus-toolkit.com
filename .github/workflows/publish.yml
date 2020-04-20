@@ -14,5 +14,5 @@ jobs:
           docker build -t docker.pkg.github.com/$AUTHOR/$REPONAME/$REPONAME:latest . && \
           docker push docker.pkg.github.com/$AUTHOR/$REPONAME/$REPONAME:latest
         env:
-          AUTHOR: zuedev
+          AUTHOR: prevac
           REPONAME: coronavirus-toolkit

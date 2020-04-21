@@ -8,6 +8,7 @@ Last updated 6 April 2020
 | Alex |   |
 | Ali Shahali |   |
 | Amin Tabari |   |
+| Beate Aurich | General paediatrician (MRCPCH London) specialised in drug safety and pharmacovigilance (MD). Experienced researcher currently working in academic research supporting several European paediatric research projects (PEDCRIN, EPTRI and C4C). Additional experiences include writing tools for paediatric research, literature review and writing articles. (Germany) |
 | Bruce Norikane |   |
 | Carina Salas |   |
 | Cheow Peng Ooi |   |
@@ -17,7 +18,7 @@ Last updated 6 April 2020
 | Geoff Washam |   |
 | Imoya Monroque |   |
 | Joanna Przeździecka-Dołyk |   |
-| John Kerrigan | Experienced health services researcher and instigator of the toolkit initiative (NJ, USA) |
+| John Kerrigan | Experienced health services researcher and instigator of the toolkit initiative. (NJ, USA) |
 | Loren De Freitas |   |
 | Dr. Matthew McGlennon | (Suffolk, UK) |
 | Oladimeji Adebayo |   |

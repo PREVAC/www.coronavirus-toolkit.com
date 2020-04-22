@@ -50,7 +50,9 @@ The use of information on this site is at reader&#39;s own risk and no party inv
 - Face masks for both the infected person and the carer (T3i Face Masks)
 - Printed symptom tracker provided in [T10: Check Severity of Coronavirus Symptoms](https://www.coronavirus-toolkit.com/f2-living-in-a-household-with-someone-with-coronavirus-symptoms.html#t10-check-severity-of-coronavirus-symptoms) or an online tool like that provided by the UK group [Patient Access](https://www.patientaccess.com/coronavirus)
 
-![https://www.patientaccess.com/coronavirus](/patientaccess.png =200x)
+<a href="https://www.patientaccess.com/coronavirus" target="_blank">
+    <img class="downloadtools" src="/patientaccess.png" width="150" height="150" />
+</a>
 
 - Pen and paper
 - Access to telephone, smartphone or computer for phone call or video consultation with local healthcare professional

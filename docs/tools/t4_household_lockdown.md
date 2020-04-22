@@ -69,4 +69,4 @@ Source: Adapted from [WHO](https://www.who.int/emergencies/diseases/novel-corona
 
 ### What to do if you think you have symptoms?
 
-The advice varies from country to country, so make sure you know what to do before you need to act. A helpful summary of the recommendations for some English speaking countries has been collated on [T2-Guidelines for People with Coronavirus Symptoms](/f1-preparing-for-coronavirus-lock-down.html#t2_guidelines_for_people_with_coronavirus_symptoms).
+The advice varies from country to country, so make sure you know what to do before you need to act. A helpful summary of the recommendations for some English speaking countries has been collated on [T2-Guidelines for People with Coronavirus Symptoms](/f1-preparing-for-coronavirus-lock-down.html#t2-guidelines-for-people-with-coronavirus-symptoms).

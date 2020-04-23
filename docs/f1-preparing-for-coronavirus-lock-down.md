@@ -38,4 +38,4 @@ You should aim to get to the bottom green box by as short a route as possible...
 !!!include(docs/tools/t9-Safely_Re-Entering_Your_House.md)!!!
 !!!include(docs/tools/T15-working_from_home_v1.md)!!!
 
-!!!include(docs/tools/T17-safe_preparation_of_food.md!!!
+!!!include(docs/tools/T17-safe_preparation_of_food.md)!!!

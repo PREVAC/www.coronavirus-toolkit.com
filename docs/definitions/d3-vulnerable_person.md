@@ -14,7 +14,7 @@ There are two possible meanings for these terms. One of them refers to people th
   - People with chronic kidney disease undergoing dialysis
   - People with liver disease
 
-![COVID-19 High Risk](\COVID19-High-Risk.jpg)
+![COVID-19 High Risk](COVID19-High-Risk.jpg)
 
 __Source:__ [CDC](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-at-higher-risk.html), [WHO](http://www.euro.who.int/en/health-topics/health-emergencies/coronavirus-covid-19/statements/statement-older-people-are-at-highest-risk-from-covid-19,-but-all-must-act-to-prevent-community-spread), [NHS](https://www.nhs.uk/conditions/coronavirus-covid-19/advice-for-people-at-high-risk/), [JHM](https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-and-covid19-who-is-at-higher-risk)
 

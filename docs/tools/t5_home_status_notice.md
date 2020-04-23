@@ -1,4 +1,4 @@
-## T5-Home Status Notice
+## T5: Home Status Notice
 
 <a href="/T5-Home Notice-v3.pdf" target="_blank">
     <img class="downloadtools" src="/download-tools.png" />

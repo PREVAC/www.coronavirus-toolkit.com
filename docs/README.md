@@ -2,6 +2,10 @@
 
 ![We Are PREVAC](/PREVAC-logo.jpeg)
 
+<div class="video-responsive">
+<iframe width="1280" height="1280" src="https://www.youtube.com/embed/2T7kVy6ypzo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </div>
+
 ::: warning
 The use of information on this site is at reader's own risk and no party involved in the information production can be held responsible for its use. By using the content found on this website, you further acknowledge that it is not intended to be a substitute for public health agency guidance, professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard public health agency or professional medical advice or delay in seeking it because of something you have read here.
 :::

@@ -3,7 +3,7 @@ home: true
 heroImage: /PREVAC-logo.jpeg
 heroText: Coronavirus Community Toolkit
 tagline: Evidence-based tools and tips to prevent the spread of Covid-19
-actionText: View the Guide →
+actionText: Show Me the Toolkit →
 actionLink: /guide/
 features:
 - title: Evidence that is Easy to Digest
